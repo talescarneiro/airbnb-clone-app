@@ -26,6 +26,8 @@ https://aircloneb.vercel.app/
 
 **MongoDB:** MongoDB is a powerful NoSQL database with a flexible schema, JSON-like data format, and high scalability, making it suitable for modern web applications.
 
+**Prisma:** Prisma is utilized as an ORM (Object-Relational Mapping) tool, providing a type-safe and database-agnostic query interface for seamless integration with databases.
+
 ## Prerequisites
 
 ```
