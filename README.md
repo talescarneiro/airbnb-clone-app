@@ -40,7 +40,7 @@ node --version
 ## Cloning the repository
 
 ```
-git clone 
+git@github.com:talescarneiro/airbnb-clone-app.git
 ```
 
 ## Install packages
